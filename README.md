@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I am a WordPress Developer currently working at Cubicide Technologies Pvt Ltd. I have recently completed my PG 👨‍🎓 in Masters of Computer Applications(MCA). I am an enthusiastic and positive mind individual & i am looking forward to pursue my career in an
+organization for personal advancement.
+
 <!--
 **imuralice/imuralice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
