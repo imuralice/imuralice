@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-- 📝 I regularly post on **[https://www.linkedin.com/in/anoopkumarkammari/](https://www.linkedin.com/in/anoopkumarkammari/)**
+- 📝 I regularly post on **[https://www.instagram.com/_anoop_kumar_/](https://www.instagram.com/_anoop_kumar_/)**
 
 - 🖌️ My Portfolio **https://imuralice.github.io/portfolio/**
 
